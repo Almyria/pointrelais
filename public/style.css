@@ -1,0 +1,15 @@
+html {
+    background-color: #fdfdfd;
+}
+.almyria-bar {
+    content: " ";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 4px;
+    background-color: #eb4760;
+}
+.almyria-header {
+    background-color: #222;
+}
